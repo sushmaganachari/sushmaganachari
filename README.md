@@ -1,47 +1,53 @@
-# Hi 👋, I'm Sushma Ganachari
+<h1 align="center">Hi 👋, I'm Sushma Ganachari</h1>
+<h3 align="center">Entry-Level Full Stack Software Developer | Java & React</h3>
 
-### 💻 Entry-Level Full Stack Software Developer  
-🚀 Available for hire | Open to internships & fresher roles
+<p align="center">
+  🚀 Available for hire | Open to internships & fresher roles
+</p>
 
 ---
 
 ## 👩‍💻 About Me
-I’m an entry-level Full Stack Developer with strong fundamentals in **Java, Spring Boot, REST APIs, and React.js**.  
-I enjoy building scalable backend services, database-driven applications, and writing clean, maintainable code.
+
+I’m an entry-level **Full Stack Developer** with strong fundamentals in  
+**Java, Spring Boot, REST APIs, and React.js**.
+
+I enjoy building **scalable backend services**, database-driven applications,  
+and writing **clean, maintainable, and efficient code**.
 
 - 🎓 B.E. in Electronics & Communication Engineering (GPA: 8.2)
-- 💡 Interested in Backend Development, Full Stack & Scalable Systems
-- 🌱 Continuously improving DSA, Java & modern web technologies
-- 💼 Actively seeking software developer roles
+- 💡 Interested in Backend Development & Full Stack Systems
+- 🌱 Improving DSA, Java & system-level thinking
+- 💼 Actively seeking software developer opportunities
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### Languages
-- Java
-- JavaScript
-- SQL, PL/SQL
+### 👩‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,sql" />
+</p>
 
-### Frameworks & Web
-- Spring Boot
-- React.js
-- HTML5, CSS3
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-### Databases
-- MySQL
-- MongoDB
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
 
-### APIs & Tools
-- REST APIs
-- Swagger (OpenAPI)
-- Postman
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### Developer Tools & Concepts
-- Git & GitHub
-- VS Code
-- OOPs, Data Structures & Algorithms
-- SDLC
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
 ---
 
@@ -50,28 +56,51 @@ I enjoy building scalable backend services, database-driven applications, and wr
 ### 🧑‍💼 Employee Management System – REST API
 🔗 https://github.com/sushmaganachari/employee-management-rest-api/
 
-- Developed RESTful APIs with full CRUD operations using Spring Boot  
-- Implemented DTODTO-based layered architecture  
-- Handled PUT and PATCH operations ensuring data consistency  
-- Integrated Spring Data JPA & Hibernate with MySQL  
-- Added centralized exception handling for robustness  
-- Documented and tested APIs using Swagger and Postman  
+- Developed RESTful APIs with full CRUD operations using Spring Boot
+- Implemented DTO-based layered architecture
+- Handled PUT & PATCH operations ensuring data consistency
+- Integrated Spring Data JPA & Hibernate with MySQL
+- Added centralized exception handling
+- Documented & tested APIs using Swagger and Postman
 
 ---
 
 ### 🎥 Zoom Clone – Real-Time Video Conferencing Application
 🔗 https://github.com/sushmaganachari/Zoom_Clone
 
-- Built a real-time video conferencing app using WebRTC & Socket.IO  
-- Implemented secure user authentication with bcrypt and MongoDB  
-- Designed responsive UI for video calls, screen sharing & live chat  
-- Enabled real-time messaging and media streaming  
-- Ensured cross-browser compatibility and smooth UX  
+- Built real-time video conferencing using WebRTC & Socket.IO
+- Implemented secure authentication using bcrypt & MongoDB
+- Designed responsive UI with video calls, screen sharing & chat
+- Enabled real-time messaging and media streaming
+- Ensured cross-browser compatibility and smooth UX
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats (Advanced)
 
-**B.E. – Electronics & Communication Engineering**  
-B.L.D.E.A’s V.P. Dr. P.G. Halakatti College of Engineering & Technology  
-📊 GPA: 8.2 / 10.0 | Dec 2021 – Jul 2025  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushmaganachari&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmaganachari&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmaganachari&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sushma-ganachari/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Sushmaganachari/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ssganacharis" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" />
+  </a>
+</p>
+
+📧 **Email:** ssganacharis@gmail.com
