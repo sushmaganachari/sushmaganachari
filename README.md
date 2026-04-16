@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushma Ganachari</h1>
 <h3 align="center">Entry-Level Full Stack Software Developer | Java & React</h3>
 
-<p align="center">
-  🚀 Available for hire | Open to internships & fresher roles
-</p>
+
 
 ---
 
